@@ -1,0 +1,16 @@
+body
+        {
+			background: black;
+			text-align: center;
+			color: white;
+		}
+
+
+.mr
+{
+    font-size: 25px;
+    color: red;
+    border: 2px solid #f1f1f1;
+    padding: 10px;
+    background-color: black;
+}
